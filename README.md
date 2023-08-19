@@ -3,16 +3,18 @@
 <h1 align="center">Major in Napping, Minor in Study</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/RohithNagesh/RohithNagesh/assets/103078929/ec1a60e2-0c7a-429f-83ba-ca2d01f2ad96">
 
+- 📚 I'm currently pursuing my **B.Tech degree at PES UNIVERSITY**
+
+- 📡 My area of concentration is **Electronics and Communication**
+  
 - 🔭 I’m currently working on **logic locking on analog circuits**
 
 - 🌱 I’m currently learning **Data science, Embedded Systems**
 
 - 💬 Ask me about **Digital VLSI Design, System Verilog**
 
-
 - 📫 How to reach me **rohithnagesh1167@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
